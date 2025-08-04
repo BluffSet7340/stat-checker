@@ -1,5 +1,5 @@
 "use server";
-import { Github, LogOutIcon } from "lucide-react";
+import { Github } from "lucide-react";
 import { auth } from "@/auth";
 import { SignIn } from "./components/sign-in";
 import UserInfo from "./components/user-info";
