@@ -1,7 +1,5 @@
-import { auth } from "@/auth";
 import Image from "next/image";
 import { SignOut } from "./sign-out";
-import axios from "axios";
 
 type UserInfoProps = {
   name?: string;
