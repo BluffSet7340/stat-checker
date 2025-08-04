@@ -1,6 +1,4 @@
 "use server";
-
-import Image from "next/image";
 import { Github, LogOutIcon } from "lucide-react";
 import { auth } from "@/auth";
 import { SignIn } from "./components/sign-in";
