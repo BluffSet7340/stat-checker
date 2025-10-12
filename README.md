@@ -1,7 +1,7 @@
 
 # GitHub Stat Checker
 
-A modern web app to view your GitHub profile statistics, built with Next.js 15, NextAuth.js, Tailwind CSS, and deployed on Vercel.
+A web app to view your GitHub profile statistics, built with Next.js 15, NextAuth.js, Tailwind CSS, and deployed on Vercel.
 
 ## Features
 
