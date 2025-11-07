@@ -79,6 +79,11 @@ This project is deployed on [Vercel](https://vercel.com/). To deploy your own:
 3. Set the required environment variables in the Vercel dashboard.
 4. Deploy!
 
+## Demo 
+
+[Login Page](https://github.com/BluffSet7340/stat-checker/blob/main/demo%201.png)
+[Detail Page](https://github.com/BluffSet7340/stat-checker/blob/main/demo%202.png) 
+
 ## License
 
 MIT
